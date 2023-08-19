@@ -1,0 +1,6 @@
+Model\EntitiesFactory.class
+Model\DbObject.class
+Model\ScriptEntity.class
+Model\RtlcConnection.class
+Model\ScriptEntitiesFactory.class
+Model\Entity.class
